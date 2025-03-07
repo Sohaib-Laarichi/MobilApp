@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Spleatch</string>
+    <string name="nom">Nom : </string>
+
+    <array name="villes">
+        <item>Marrakech</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+        <item>Casablanca</item>
+        <item>Tanger</item>
+        <item>Agadir</item>
+        <item>Meknes</item>
+        <item>Oujda</item>
+        <item>Kenitra</item>
+        <item>Tetouan</item>
+
+    </array>
+    <string name="mon_logo">Mon logo</string>
+</resources>
